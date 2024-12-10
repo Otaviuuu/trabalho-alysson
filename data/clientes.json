@@ -1,0 +1,20 @@
+[
+    {
+        "cpf": "11122233344",
+        "nome": "Otavio Augusto",
+        "nascimento": "01/01/2002",
+        "email": "otavio.augusto@gmail.com"
+    },
+    {
+        "cpf": "05842575811",
+        "nome": "cristiane romaria",
+        "nascimento": "2003-10-10",
+        "email": "cristianeadoida.com"
+    },
+    {
+        "cpf": "07636752612",
+        "nome": "roberto alvaro",
+        "nascimento": "2002-10-07",
+        "email": "robertoalvaro.com"
+    }
+]
